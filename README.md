@@ -1,9 +1,7 @@
 <h1 align="left">Hi 👋, I'm Nur</h1>
-<h3 align="left">Lead Software Engineer driven by innovation and collaboration.</h3>
+<h2 align="left">Lead Software Engineer driven by innovation and collaboration.</h2>
 
----
-
-<h4 align="left">Connect with me:</h4>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://twitter.com/nduisekeyev" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
@@ -13,7 +11,7 @@
   </a>
 </p>
 
-<h4 align="left">Programming Languages:</h4>
+<h3 align="left">Programming Languages:</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -26,7 +24,7 @@
   </a>
 </p>
 
-<h4 align="left">Frontend development:</h4>
+<h3 align="left">Frontend development:</h3>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
@@ -48,7 +46,7 @@
   </a>
 </p>
 
-<h4 align="left">Data Visualization:</h4>
+<h3 align="left">Data Visualization:</h3>
 <p align="left">
   <a href="https://d3js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/>
@@ -58,7 +56,7 @@
   </a>
 </p>
 
-<h4 align="left">Devops:</h4>
+<h3 align="left">Devops:</h3>
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
@@ -74,7 +72,7 @@
   </a>
 </p>
 
-<h4 align="left">Testing:</h4>
+<h3 align="left">Testing:</h3>
 <p align="left">
   <a href="https://jestjs.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
@@ -84,7 +82,7 @@
   </a>
 </p>
 
-<h4 align="left">Backend development:</h4>
+<h3 align="left">Backend development:</h3>
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -101,7 +99,7 @@
 
 </p>
 
-<h4 align="left">Database:</h4>
+<h3 align="left">Database:</h3>
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
@@ -117,7 +115,7 @@
   </a>
 </p>
 
-<h4 align="left">Tools:</h4>
+<h3 align="left">Tools:</h3>
 <p align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
@@ -126,7 +124,6 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
-
 
 <!--
 **nduisekeyev/nduisekeyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
