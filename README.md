@@ -2,7 +2,6 @@
 <h3 align="left">Lead Software Engineer driven by innovation and collaboration</h3>
 
 - 💬 Ask me about the Software Engineering
-- 📫 How to reach me: nur.duisekeyev@hotmail.com
 - ⚡ Fun fact:  I went scuba diving under a big ship
 
 <h3 align="left">Connect with me:</h3>
